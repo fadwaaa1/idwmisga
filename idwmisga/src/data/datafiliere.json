@@ -1,0 +1,172 @@
+
+[
+  {
+    "id": 1,
+    "nom": "Informatique",
+    "description": "Développement logiciel et programmation.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400",
+    "semestres": [
+      {
+        "id": 1,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 1, "nom": "Algorithmique" },
+          { "id": 2, "nom": "Langage C" },
+          { "id": 3, "nom": "Mathématiques" }
+        ]
+      },
+      {
+        "id": 2,
+        "nom": "Semestre 2",
+        "modules": [
+          { "id": 4, "nom": "Programmation Orientée Objet" },
+          { "id": 5, "nom": "Bases de données" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Réseaux",
+    "description": "Administration des réseaux informatiques.",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400",
+    "semestres": [
+      {
+        "id": 3,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 6, "nom": "Introduction aux réseaux" },
+          { "id": 7, "nom": "Configuration Cisco" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "Génie Civil",
+    "description": "Construction et conception des bâtiments.",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=400",
+    "semestres": [
+      {
+        "id": 4,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 8, "nom": "Résistance des matériaux" },
+          { "id": 9, "nom": "Dessin technique" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Génie Électrique",
+    "description": "Étude des systèmes électriques.",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400",
+    "semestres": [
+      {
+        "id": 5,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 10, "nom": "Électrotechnique" },
+          { "id": 11, "nom": "Électronique de base" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "Génie Mécanique",
+    "description": "Conception des systèmes mécaniques.",
+    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=400",
+    "semestres": [
+      {
+        "id": 6,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 12, "nom": "Mécanique des fluides" },
+          { "id": 13, "nom": "Dessin industriel" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nom": "Gestion",
+    "description": "Management et gestion des entreprises.",
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=400",
+    "semestres": [
+      {
+        "id": 7,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 14, "nom": "Comptabilité générale" },
+          { "id": 15, "nom": "Principes de management" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nom": "Finance",
+    "description": "Finance et comptabilité.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+    "semestres": [
+      {
+        "id": 8,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 16, "nom": "Mathématiques financières" },
+          { "id": 17, "nom": "Analyse financière" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nom": "Marketing",
+    "description": "Marketing et stratégies commerciales.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400",
+    "semestres": [
+      {
+        "id": 9,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 18, "nom": "Étude de marché" },
+          { "id": 19, "nom": "Marketing digital" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nom": "Intelligence Artificielle",
+    "description": "Développement des systèmes intelligents.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400",
+    "semestres": [
+      {
+        "id": 10,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 20, "nom": "Machine Learning" },
+          { "id": 21, "nom": "Python pour l'IA" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nom": "Cybersécurité",
+    "description": "Protection des systèmes informatiques.",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400",
+    "semestres": [
+      {
+        "id": 11,
+        "nom": "Semestre 1",
+        "modules": [
+          { "id": 22, "nom": "Cryptographie" },
+          { "id": 23, "nom": "Sécurité des réseaux" }
+        ]
+      }
+    ]
+  }
+]
